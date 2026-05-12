@@ -360,17 +360,19 @@ predict_image(model, image_index=10|0, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+<img width="594" height="313" alt="image" src="https://github.com/user-attachments/assets/717f5333-01e1-49f7-b8b3-d7e829dc0898" />
+
 
 ## Confusion Matrix
 
-Include confusion matrix here
+<img width="734" height="751" alt="image" src="https://github.com/user-attachments/assets/595b4fe1-5cac-46e9-b779-401063c60f8d" />
 
 ## Classification Report
-Include classification report here
+<img width="569" height="420" alt="image" src="https://github.com/user-attachments/assets/a9f69b86-2096-4d33-a866-2387550e5d9b" />
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
+<img width="389" height="432" alt="image" src="https://github.com/user-attachments/assets/67e46f02-8be3-442e-ab00-b1252485a29e" />
 
 ## RESULT
-Include your result here
+    The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
