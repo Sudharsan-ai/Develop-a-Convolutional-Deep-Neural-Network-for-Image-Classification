@@ -16,7 +16,7 @@ The CNN consists of multiple convolutional layers with activation functions, fol
 
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1687" height="893" alt="image" src="https://github.com/user-attachments/assets/2a600ab1-cf62-436d-be23-c59200e6628e" />
 
 ## DESIGN STEPS
 ### STEP 1: 
