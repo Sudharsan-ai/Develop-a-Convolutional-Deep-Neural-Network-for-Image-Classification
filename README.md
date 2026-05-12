@@ -4,36 +4,41 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+The objective of this project is to create a CNN that can categorize images of fashion items from the Fashion MNIST dataset. This dataset includes grayscale images of clothing and accessories such as T-shirts, trousers, dresses, and footwear. The task is to accurately predict the correct category for each image while ensuring the model is efficient and robust.
+
+1.Training data: 60,000 images
+
+2.Test data: 10,000 images
+
+3.Classes: 10 fashion categories
+
+The CNN consists of multiple convolutional layers with activation functions, followed by pooling layers, and ends with fully connected layers to output predictions for all 10 categories.
+
 
 ## Neural Network Model
 Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
-
-Write your own steps
+Import the required libraries (torch, torchvision, torch.nn, torch.optim) and load the image dataset with necessary preprocessing like normalization and transformation.
 
 ### STEP 2: 
-
+Split the dataset into training and testing sets and create DataLoader objects to feed images in batches to the CNN model.
 
 
 ### STEP 3: 
-
+Define the CNN architecture using convolutional layers, ReLU activation, max pooling layers, and fully connected layers as implemented in the CNNClassifier class.
 
 
 ### STEP 4: 
-
+Initialize the model, define the loss function (CrossEntropyLoss), and choose the optimizer (Adam) for training the network.
 
 
 ### STEP 5: 
-
-
+Train the model using the training dataset by performing forward pass, computing loss, backpropagation, and updating weights for multiple epochs.
 
 ### STEP 6: 
-
-
-
+Evaluate the trained model on test images and verify the classification accuracy for new unseen images.
 
 
 ## PROGRAM
