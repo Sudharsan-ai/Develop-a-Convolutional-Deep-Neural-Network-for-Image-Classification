@@ -279,7 +279,7 @@ test_model(model, test_loader)
 
 
     
-![png](ex03_files/ex03_12_1.png)
+![png](ex03_12_1.png)
     
 ```
 
