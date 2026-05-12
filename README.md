@@ -43,9 +43,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name:
+### Name: Sudharsan S
 
-### Register Number:
+### Register Number:212224040334
 
 ```python
 import torch
